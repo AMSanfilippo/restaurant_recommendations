@@ -1,0 +1,193 @@
+name,location_str,latitude,longitude,price,rating,cuisine,recommender,date,neighborhood
+Kogane Ramen,337 West 14th St,40.74066,-74.00426,$$,4.5,Ramen,Robert Sietsema,2019-02-22,West Village
+Kiki’s,130 Division St,40.7144971858255,-73.99185539313359,$$,4.0,Greek,Monica Burton,2019-02-22,Lower East Side
+the NoMad Bar,10 West 28th St,40.7449365409844,-73.9885197632294,$$$,4.5,Cocktail Bars,Stefanie Tuder,2019-02-22,Flatiron District
+Tipsy Shanghai,228 Thompson St,40.72929,-73.99882,$$,4.0,Chinese,Robert Sietsema,2019-02-22,Greenwich Village
+Thai Son,89 Baxter St,40.716770000000004,-73.9995,$,3.5,Vietnamese,Serena Dai,2019-02-22,Chinatown
+Fradei,99 South Portland Ave,40.68656,-73.97433000000001,,5.0,Italian,Robert Sietsema,2019-02-15,Fort Greene
+Taco Recipes,23 Essex St,40.715260686971796,-73.9900060870141,$,3.5,Mexican,Serena Dai,2019-02-15,Lower East Side
+Shane’s Brooklyn,794 Washington Ave,40.674209999999995,-73.96324,$$,3.5,American (New),Kayla Kumari Upadhyaya,2019-02-15,Prospect Heights
+Marcus B & P,56 Halsey St,40.7405676328061,-74.1711439974088,$$,4.0,American (New),Robert Sietsema,2019-02-08,East Newark
+Spicy Moon,328 East 6th St,40.72674,-73.98722,,4.5,Szechuan,Monica Burton,2019-02-08,East Village
+Sous Vide Kitchen,119 East 23rd St,40.73995,-73.98538,$$,4.0,American (New),Robert Sietsema,2019-02-08,Flatiron District
+Peaches HotHouse,87 South Elliott Pl,40.68695,-73.97541,,3.5,Chicken Shop,Serena Dai,2019-02-08,Fort Greene
+Buttah Bakery,377 Onderdonk Ave,40.70816,-73.913809,$$,5.0,Bakeries,Robert Sietsema,2019-02-01,Ridgewood
+Factory Tamal,34 Ludlow St,40.7159893975333,-73.9903887679246,$,4.5,Mexican,Carla Vianna,2019-02-01,Lower East Side
+Grace Street,17 West 32nd St,40.7478576793883,-73.9865590631962,$$,4.0,Coffee & Tea,Serena Dai,2019-02-01,Garment District
+Bronx Alehouse,216 West 238th St,40.8847016520226,-73.8994980779851,$$,4.0,American (Traditional),Robert Sietsema,2019-02-01,Kingsbridge
+Kish-Kash,455 Hudson St,40.731409899999996,-74.0070099,$$,4.0,Moroccan,Robert Sietsema,2019-01-25,West Village
+Augustine,5 Beekman St,40.71132,-74.00671,$$$,3.5,American (New),Serena Dai,2019-01-25,Financial District
+99 Ranch Market,420 Grand St,40.7186474,-74.0527782,$$,4.0,Grocery,Stefanie Tuder,2019-01-25,Downtown
+Threes Brewing,333 Douglass St,40.679629999999996,-73.98227,,4.5,Burgers,Stefanie Tuder,2019-01-25,Gowanus
+Sapthagiri,804 Newark Ave,40.73571680043,-74.06503334349291,$$,3.5,Indian,Robert Sietsema,2019-01-18,Journal Square
+Madcap Cafe,387 Court St,40.68007,-73.99685,$$,4.5,Cafes,Serena Dai,2019-01-18,Carroll Gardens
+Marta,29 East 29th St,40.744521275073204,-73.9845828515206,$$$,4.0,Pizza,Stefanie Tuder,2019-01-18,Flatiron District
+Miss Ada,184 Dekalb Ave,40.689436,-73.9723809,$$$,4.5,Mediterranean,Monica Burton,2019-01-11,Fort Greene
+Joyface,104 Avenue C,40.72394,-73.97878,,5.0,Cocktail Bars,Stefanie Tuder,2019-01-11,East Village
+Fairfax,234 West 4th St,40.73433,-74.00322,$$$,4.0,Breakfast & Brunch,Carla Vianna,2019-01-04,West Village
+Petite Boucherie,14 Christopher St,40.73382,-74.00041999999999,$$$,4.5,French,Robert Sietsema,2018-12-28,Greenwich Village
+Joseph Leonard,170 Waverly Pl,40.7336021670705,-74.001675412843,$$,4.0,American (New),Stefanie Tuder,2018-12-28,Greenwich Village
+City Cakes,251 West 18th St,40.742059999999995,-73.99999,$$,4.5,Desserts,Stefanie Tuder,2018-12-28,Chelsea
+Bessou,5 Bleecker St,40.725502,-73.992675,$$,4.0,Japanese,Monica Burton,2018-12-21,NoHo
+Bistro Pierre Lapin,99 Bank St,40.736540000000005,-74.00639,$$$$,3.5,French,Robert Sietsema,2018-12-21,West Village
+Jora,47-46 11th St,40.7438054,-73.9515007,$$,4.5,Peruvian,Robert Sietsema,2018-12-14,Hunters Point
+Liebman’s,552 West 235th St,40.88548,-73.90951,$$,4.0,Delis,Stefanie Tuder,2018-12-14,Spuyten Duyvil
+Tom Colicchio,43 East 19th St,40.73818,-73.98866,$$$$,4.0,American (New),Robert Sietsema,2018-12-14,Flatiron District
+Padoca Bakery,359 East 68th St,40.7654799,-73.95806999999999,$,4.5,Bakeries,Carla Vianna,2018-12-14,Upper East Side
+Pepolino,281 West Broadway,40.72077,-74.00489,$$$,4.0,Tuscan,Robert Sietsema,2018-12-07,Tribeca
+Baz Bagel,181 Grand St,40.7193075362767,-73.9977402932106,$$,3.5,Breakfast & Brunch,Stefanie Tuder,2018-12-07,Little Italy
+Boqueria,171 Spring St,40.724911999999996,-74.00212990000001,$$$,4.0,Spanish,Robert Sietsema,2018-12-07,SoHo
+Hole in the Wall,15 Cliff St,40.70837,-74.00563000000001,$$,4.5,Cocktail Bars,Sonia Chopra,2018-12-07,Financial District
+Cervo’s,43 Canal St,40.7149,-73.99132,$$$,4.5,Seafood,Serena Dai,2018-12-07,Lower East Side
+Pizza Moto,338 Hamilton Ave,40.6746224,-74.0007999,$$,4.5,Pizza,Monica Burton,2018-11-30,Red Hook
+Klom Klorm,181 Wyckoff Ave,40.703109999999995,-73.91708,,5.0,Thai,Patty Diez,2018-11-30,Bushwick
+Taste of Persia,12 West 18th St,40.73891,-73.99298,$$,4.5,Persian/Iranian,Stefanie Tuder,2018-11-30,Flatiron District
+New Thanh Hoi,234 10th St,40.7291896348333,-74.0433894140167,$$,3.5,Vietnamese,Robert Sietsema,2018-11-30,Downtown
+Lahori Chilli,1026 Coney Island Ave,40.632529999999996,-73.96705,$,3.5,Indian,Robert Sietsema,2018-11-16,Kensington
+Los Tacos Al Pastor,141 Front St,40.70254,-73.98736,,3.5,Tacos,Carla Vianna,2018-11-16,DUMBO
+Nicole’s Caribbean,521 Jersey Ave,40.7208842640608,-74.04677686864801,$,4.0,Caribbean,Robert Sietsema,2018-11-16,Downtown
+Zhen Wei Fang,207 Bowery,40.72128,-73.99343,,4.0,Chinese,Serena Dai,2018-11-09,Lower East Side
+Il Tinello,16 West 56th St,40.76256,-73.97565999999999,$$$$,4.5,Italian,Stefanie Tuder,2018-11-09,Midtown
+Charrua,131 Essex St,40.720040000000004,-73.9876,$$,4.0,Latin American,Robert Sietsema,2018-11-09,Lower East Side
+El Quinto Pino,401 West 24th St,40.74743,-74.00124,$$,3.5,Tapas Bars,Carla Vianna,2018-11-09,Chelsea
+Empanada Mama,95 Allen St,40.71875631423121,-73.990894515892,$,4.0,Latin American,Patty Diez,2018-11-02,Lower East Side
+Misi,329 Kent Ave,40.713409999999996,-73.96661999999999,,4.0,Italian,Daniela Galarza,2018-11-02,Williamsburg
+Bunna Cafe,1084 Flushing Ave,40.705042,-73.928078,$$,4.5,Ethiopian,Monica Burton,2018-11-02,Williamsburg
+Suede,5610 Clarendon Rd,40.64455,-73.92342,$$,3.5,Caribbean,Robert Sietsema,2018-11-02,East Flatbush
+Indikitch,25 West 23rd St,40.742214202880895,-73.9904403686523,$$,4.0,Indian,Sonia Chopra,2018-10-26,Flatiron District
+Fifty,50 Commerce St,40.7316062167239,-74.00563235254259,$$$,4.5,Latin American,Robert Sietsema,2018-10-26,West Village
+La Vara,268 Clinton St,40.68781,-73.99576,$$$,4.0,Spanish,Carla Vianna,2018-10-26,Cobble Hill
+B Cafe East,240 East 75th St,40.770919899999996,-73.95759,$$,4.0,Bars,Daniela Galarza,2018-10-26,Upper East Side
+Taiwan Pork Chop House,3 Doyers St,40.714240000000004,-73.99799,$,4.0,Taiwanese,Adam Moussa,2018-10-19,Chinatown
+Taste of Samarkand,62-16 Woodhaven Blvd,40.7266223,-73.870707,$$,4.0,Uzbek,Patty Diez,2018-10-19,Middle Village
+BòCàPhê,222 Lafayette St,40.7220786,-73.9975506,$$,4.0,Vietnamese,Robert Sietsema,2018-10-12,Little Italy
+Excellent Dumpling House,165 West 23rd St,40.744049439635795,-73.995028194335,$$,4.0,Dim Sum,Stefanie Tuder,2018-10-12,Chelsea
+the Bund,100-30 Queens Blvd,40.7264404960967,-73.8532474276788,$$,3.5,Shanghainese,Robert Sietsema,2018-10-12,Forest Hills
+Michael’s of Marine Park,2929 Ave R,40.6076329987397,-73.9428921973385,$$$,4.5,Italian,Robert Sietsema,2018-10-05,Sheepshead Bay
+Burp Castle,41 E 7th St,40.728325219266296,-73.9886448736218,$$,4.0,Pubs,Serena Dai,2018-10-05,East Village
+Babbalucci,331 Lenox Ave,40.80894,-73.94496,$$,4.0,Italian,Carla Vianna,2018-10-05,Harlem
+Gramercy Tavern,42 East 20th St,40.738527000000005,-73.988417,$$$$,4.5,American (New),Daniela Galarza,2018-09-29,Flatiron District
+Zum Stammtisch,69-46 Myrtle Ave,40.70176179999999,-73.88134079999999,$$,4.5,Meat Shops,Robert Sietsema,2018-09-21,Glendale
+Saint Austere,613 Grand St,40.7114604,-73.94761820000001,$$,4.5,Tapas Bars,Stefanie Tuder,2018-09-21,Williamsburg
+Lamano,39 Christopher St,40.73388,-74.00158,$$,4.0,Tapas Bars,Robert Sietsema,2018-09-21,Greenwich Village
+Han Dynasty,1 Dekalb Ave,40.691131961003606,-73.9825977757573,$$,4.0,Chinese,Carla Vianna,2018-09-21,Downtown
+Faun,606 Vanderbilt Ave,40.678259999999995,-73.96885,$$$,4.0,Italian,Kayla Kumari Upadhyaya,2018-09-14,Prospect Heights
+Clemente’s Maryland Crabhouse,3939 Emmons Ave,40.585104,-73.9262774,$$,3.0,Seafood,Serena Dai,2018-09-07,Sheepshead Bay
+Via Carota,51 Grove St,40.7331,-74.00369,$$$,4.0,Italian,Daniela Galarza,2018-09-07,West Village
+Silky Kitchen,137 East 13th St,40.73297,-73.98829,$,4.5,Chinese,Robert Sietsema,2018-08-31,Greenwich Village
+the Clam,420 Hudson St,40.73030766120021,-74.00680303576391,$$$,4.0,Seafood,Kayla Kumari Upadhyaya,2018-08-31,West Village
+Ten Bells,247 Broome St,40.717801,-73.98985,$$,3.5,Wine Bars,Sonia Chopra,2018-08-31,Lower East Side
+Grandaisy Bakery,250 West Broadway,40.720020372548,-74.005867765337,$,3.5,Bakeries,Robert Sietsema,2018-08-24,Tribeca
+David’s Brisket House and Deli,533 Nostrand Ave,40.679434,-73.949515,$$,4.5,Delis,Robert Sietsema,2018-08-24,Bedford Stuyvesant
+Bep Ga,70 Forsyth St,40.717009999999995,-73.99324,$$,4.5,Vietnamese,Robert Sietsema,2018-08-17,Lower East Side
+the Holler,348 Franklin Ave,40.687208,-73.957163,$$,4.5,Cocktail Bars,Kayla Kumari Upadhyaya,2018-08-10,Bedford Stuyvesant
+Katana Kitten,531 Hudson St,40.73425,-74.00639,,4.0,Cocktail Bars,Robert Sietsema,2018-08-10,West Village
+Al di La,248 Fifth Ave,40.675290000000004,-73.98138,,5.0,Coffee & Tea,Serena Dai,2018-08-10,Park Slope
+Xing Shun Da,44-18 Kissena Blvd,40.753366425633395,-73.82224492728709,$$,4.0,Chinese,Robert Sietsema,2018-08-03,Flushing
+21 Greenpoint,21 Greenpoint Ave,40.72978,-73.95992,$$$,4.0,American (New),Kayla Kumari Upadhyaya,2018-08-03,Greenpoint
+Llamita,80 Carmine St,40.7294419,-74.00487,,4.0,Latin American,Robert Sietsema,2018-08-03,Greenwich Village
+Parklife,636 Degraw St,40.6789343,-73.983069,$$,3.5,Bars,Kayla Kumari Upadhyaya,2018-08-03,Gowanus
+Popina,127 Columbia St,40.687361962701004,-74.0014251909241,$$,4.0,Southern,Monica Burton,2018-07-27,Columbia Street Waterfront District
+Do Hwa,55 Carmine St,40.7299,-74.0042,$$,3.5,Korean,Robert Sietsema,2018-07-27,Greenwich Village
+Up Stairs,59 Canal St,40.7151141,-73.9920321,$$,3.0,Bars,Serena Dai,2018-07-27,Lower East Side
+Haile Bistro,182 Ave B,40.72783,-73.97951,$$,4.0,Ethiopian,Robert Sietsema,2018-07-20,East Village
+Salvation Taco,145 East 39th St,40.749309999999994,-73.97664,,3.5,Lounges,Patty Diez,2018-07-20,Murray Hill
+Kyma,15 West 18th St,40.73904,-73.99283,,3.5,Greek,Stefanie Tuder,2018-07-20,Flatiron District
+Colson Patisserie,374 9th St,40.667755,-73.98397,$$,4.0,Coffee & Tea,Serena Dai,2018-07-20,Park Slope
+Barboncino,781 Franklin Ave,40.672090000000004,-73.95730999999999,$$,4.5,Pizza,Kayla Kumari Upadhyaya,2018-07-13,Crown Heights
+Seabra’s Marisqueira,87 Madison St,40.72991,-74.16067,$$,3.5,Portuguese,Robert Sietsema,2018-07-13,North Ironbound
+Have and Meyer,103 Havemeyer St,40.713268775108396,-73.9564743950496,$$,4.0,Wine Bars,Serena Dai,2018-07-13,Williamsburg
+Frost Restaurant,193 Frost St,40.7183867,-73.94349059999999,$$,4.0,Italian,Robert Sietsema,2018-07-06,Williamsburg
+Diamond Reef,1057 Atlantic Ave,40.6796758019517,-73.9566367333384,$$,4.0,Cocktail Bars,Kayla Kumari Upadhyaya,2018-07-06,Bedford Stuyvesant
+Paulie Gee’s,60 Greenpoint Ave,40.729546,-73.958568,$$,4.5,Pizza,Sonia Chopra,2018-07-06,Greenpoint
+Pearl Oyster Bar,18 Cornelia St,40.731409899999996,-74.00197,$$$,4.0,Seafood,Robert Sietsema,2018-06-29,Greenwich Village
+Miss Lily’s,132 West Houston St,40.7279368007065,-74.00155956078079,$$,3.5,Caribbean,Stefanie Tuder,2018-06-29,Greenwich Village
+Chez Ma Tante,90 Calyer St,40.726896610895096,-73.9574290439961,$$,4.5,American (Traditional),Serena Dai,2018-06-29,Greenpoint
+Nickel and Diner,1 Howard St,40.71893129233229,-73.99945246916191,$$,4.0,American (New),Serena Dai,2018-06-29,Chinatown
+Brooklyn Ball Factory,95 Montrose Ave,40.707233802794796,-73.94586617790969,$$,4.5,Cafes,Daniela Galarza,2018-06-22,Williamsburg
+Bonnie Vee,17 Stanton St,40.722401,-73.992149,$$,4.0,Cocktail Bars,Stefanie Tuder,2018-06-22,Lower East Side
+Mustang Thakali Kitchen,74-14 37th Ave,40.748941884406705,-73.8914922910723,$$,4.0,Himalayan/Nepalese,Robert Sietsema,2018-06-22,Jackson Heights
+Corazon de Mexico,10-09 50th Ave,40.74281,-73.95348,$$,3.0,Mexican,Robert Sietsema,2018-06-15,Hunters Point
+Omen Azen,113 Thompson St,40.726,-74.00196,$$$,3.5,Japanese,Robert Sietsema,2018-06-08,SoHo
+Gueros,605 Prospect Pl,40.67521,-73.95657,$,4.0,Tex-Mex,Kayla Kumari Upadhyaya,2018-06-08,Crown Heights
+Liebman’s,552 West 235th St,40.88548,-73.90951,$$,4.0,Delis,Robert Sietsema,2018-06-08,Spuyten Duyvil
+Wallflower,235 West 12th St,40.7377405,-74.0021002,$$$,4.0,American (New),Robert Sietsema,2018-06-01,West Village
+Sunshine Co.,780 Washington Ave,40.674603499999996,-73.96316440000001,$$,4.0,American (New),Kayla Kumari Upadhyaya,2018-06-01,Crown Heights
+Veniero’s,342 E 11th St,40.729409999999994,-73.98454,$$,4.0,Bakeries,Robert Sietsema,2018-05-25,East Village
+Bohemian Hall and Beer Garden,2919 24th Ave,40.772729999999996,-73.915772,$$,4.0,Beer Gardens,Robert Sietsema,2018-05-25,Astoria
+La Newyorkina,240 Sullivan St,40.72994,-73.99959,$,4.5,Ice Cream & Frozen Yogurt,Daniela Galarza,2018-05-18,Greenwich Village
+Noodle Village,13 Mott St,40.714166999999996,-73.99880300000001,$,4.0,Chinese,Stefanie Tuder,2018-05-18,Chinatown
+Surya,154 Bleecker St,40.7281,-73.99963000000001,$$,4.0,Indian,Robert Sietsema,2018-05-18,Greenwich Village
+Old Tbilisi Garden,174 Bleecker St,40.728770700000005,-74.0008161,$$,4.0,Modern European,Robert Sietsema,2018-05-04,Greenwich Village
+Scampi,30 West 18th St,40.739020000000004,-73.99358000000001,$$$,4.0,Italian,Stefanie Tuder,2018-05-04,Flatiron District
+Sea Witch,703 5th Ave,40.66082,-73.993538,$$,4.0,Lounges,Kayla Kumari Upadhyaya,2018-05-04,Greenwood
+Takahachi,85 Ave A,40.725315,-73.984436,$$,4.0,Sushi Bars,Robert Sietsema,2018-05-04,East Village
+Peaches Hot House,415 Tompkins Ave,40.6833699737169,-73.9437798410654,$$,4.0,Southern,Kayla Kumari Upadhyaya,2018-05-04,Bedford Stuyvesant
+La Morada,308 Willis Ave,40.810552,-73.92142,$$,4.5,Mexican,Robert Sietsema,2018-04-27,Mott Haven
+Terroir,24 Harrison St,40.718804998517,-74.0099987815497,$$,4.0,Wine Bars,Serena Dai,2018-04-27,Tribeca
+Tacombi,267 Elizabeth St,40.724030400000004,-73.99390279999999,$$,3.5,Mexican,Stefanie Tuder,2018-04-27,Little Italy
+Pheasant,445 Graham Ave,40.7185,-73.9452,$$$,4.5,Mediterranean,Robert Sietsema,2018-04-27,Williamsburg
+Shuka,38 Macdougal St,40.72707,-74.00283,$$,4.0,Mediterranean,Stefanie Tuder,2018-04-20,SoHo
+Killmeyer’s Old Bavaria Inn,4254 Arthur Kill Rd,40.538469899999996,-74.23721,$$,3.5,German,Robert Sietsema,2018-04-13,Charleston
+Ping’s,22 Mott St,40.714442,-73.998636,$$,3.5,Seafood,Robert Sietsema,2018-04-13,Chinatown
+Via Carota,51 Grove St,40.7331,-74.00369,$$$,4.0,Italian,Stefanie Tuder,2018-04-13,West Village
+La Superior,295 Berry St,40.713570000000004,-73.96363000000001,$$,3.5,Mexican,Kayla Kumari Upadhyaya,2018-03-30,Williamsburg
+Mercato,352 West 39th St,40.756190000000004,-73.9937,$$,4.0,Italian,Stefanie Tuder,2018-03-30,Clinton
+The Well,272 Meserole St,40.7084722,-73.93787440000001,$$,4.0,Beer Gardens,Serena Dai,2018-03-30,Williamsburg
+Chez Ma Tante,90 Calyer St,40.726896610895096,-73.9574290439961,$$,4.5,American (Traditional),Robert Sietsema,2018-03-23,Greenpoint
+The Islands,671 Washington Ave,40.677052379474894,-73.9634169638157,$$,4.5,Caribbean,Kayla Kumari Upadhyaya,2018-03-16,Crown Heights
+Bad Seed Brooklyn,585 Franklin Ave,40.678478999999996,-73.95505899999999,$$,4.5,Cideries,Serena Dai,2018-03-16,Crown Heights
+Café Cluny,284 West 12th St,40.737384999999996,-74.003966,$$,4.0,Breakfast & Brunch,Robert Sietsema,2018-03-16,West Village
+Lahori Chilli,1026 Coney Island Ave,40.632529999999996,-73.96705,$,3.5,Indian,Robert Sietsema,2018-03-16,Kensington
+Soco,509 Myrtle Ave,40.693866,-73.964535,$$,4.0,Cajun/Creole,Robert Sietsema,2018-03-09,Clinton Hill
+Plaka,406 86th St,40.622398376464794,-74.0282821655273,$$,3.5,Greek,Robert Sietsema,2018-03-09,Fort Hamilton
+Abraço,81 East 7th St,40.72739,-73.98613,$$,4.0,Coffee & Tea,Stefanie Tuder,2018-03-09,East Village
+Wasan,440 Bergen St,40.6812605,-73.97684179999999,$$,4.0,Japanese,Serena Dai,2018-03-02,Park Slope
+Op La,136 Dekalb Ave,40.6895850648299,-73.97555854840999,$$,3.0,Vietnamese,Robert Sietsema,2018-03-02,Fort Greene
+Kafana,116 Ave C,40.72432,-73.97851,$$,4.0,Modern European,Robert Sietsema,2018-02-23,East Village
+Super Power,722 Nostrand Ave,40.6739268745309,-73.95032747150259,$$,4.5,Cocktail Bars,Kayla Kumari Upadhyaya,2018-02-23,Crown Heights
+Garden Grill,318 Graham Ave,40.713508000000004,-73.943893,$,3.0,Coffee & Tea,Stefanie Tuder,2018-02-23,Williamsburg
+Russ & Daughters Cafe,127 Orchard St,40.7196253171697,-73.9895758930263,$$,4.0,Bagels,Stefanie Tuder,2018-02-16,Lower East Side
+Bemelmans Bar,35 East 76th St,40.774190000000004,-73.96284,$$$$,4.0,French,Daniela Galarza,2018-02-08,Upper East Side
+Larb Ubol,480 9th Ave,40.755058,-73.994759,$$,4.0,Thai,Robert Sietsema,2018-02-08,Clinton
+The Pool Lounge,99 East 52nd St,40.7586374,-73.9732412,$$$$,4.0,Seafood,Stefanie Tuder,2018-02-08,Midtown
+The Quarter,522 Hudson St,40.7339331507683,-74.0062008798122,$$,3.5,Mediterranean,Robert Sietsema,2018-02-02,West Village
+Cent’Anni,742 Franklin Ave,40.6730907423467,-73.9573492245369,$$,4.0,Italian,Kayla Kumari Upadhyaya,2018-02-02,Crown Heights
+Roberto’s,603 Crescent Ave,40.85372,-73.88834,$$$,4.0,Italian,Robert Sietsema,2018-02-02,Belmont
+Ikinari,90 East 10th St,40.73088,-73.98968,$$,4.0,Steakhouses,Serena Dai,2018-02-02,Greenwich Village
+Shuraku,47 8th Ave,40.7385446555585,-74.0040071109515,$$$,4.5,Tapas/Small Plates,Robert Sietsema,2018-01-26,West Village
+Ichibantei,401 East 13th St,40.73063,-73.98275,$$,4.0,Japanese,Serena Dai,2018-01-26,East Village
+The Dead Rabbit,30 Water St,40.70329,-74.01102,$$,4.0,Cocktail Bars,Serena Dai,2018-01-19,Financial District
+Madre Mezcaleria,706 Washington Ave,40.676910400390604,-73.9638442993164,$$,4.0,Cocktail Bars,Kayla Kumari Upadhyaya,2018-01-19,Prospect Heights
+Almond,12 East 22nd St,40.740081787109396,-73.98875427246091,$$,4.0,American (New),Stefanie Tuder,2018-01-12,Flatiron District
+Bebe Fritay,826 Rogers Ave,40.650499200000006,-73.9524665,$$,3.5,Haitian,Robert Sietsema,2018-01-12,Flatbush
+Colonia Verde,219 Dekalb Ave,40.689735412597706,-73.970703125,$$,4.0,Latin American,Serena Dai,2018-01-12,Fort Greene
+Ki Sushi,282 Flatbush Ave,40.6784417729132,-73.9734394269355,$$,4.5,Japanese,Serena Dai,2018-01-05,Park Slope
+Mee Sum,26 Pell St,40.715045,-73.99829100000001,$,3.5,Dim Sum,Robert Sietsema,2018-01-05,Chinatown
+Broa,297 Grove St,40.71862,-74.04386,$$,4.0,Cafes,Stefanie Tuder,2018-01-05,Downtown
+June,231 Court St,40.6861,-73.99394000000001,$$,4.0,Wine Bars,Kayla Kumari Upadhyaya,2018-01-05,Carroll Gardens
+The Chinese Club,208 Grand St,40.713844,-73.96039,$$,4.0,Indian,Serena Dai,2017-12-29,Williamsburg
+Mood Ring,1260 Myrtle Ave,40.697725,-73.926887,$$,4.0,Cocktail Bars,Serena Dai,2017-12-29,Bushwick
+Evelina,211 Dekalb Ave,40.689721999999996,-73.971003,$$$,4.5,Italian,Robert Sietsema,2017-12-08,Fort Greene
+McWhorter Barbecue,104 McWhorter St,40.729440999999994,-74.166709,$,4.0,Barbeque,Robert Sietsema,2017-12-08,Central Business District
+Le Moulin a Cafe,1439 York Ave,40.7697981,-73.95180429999999,$$,4.0,French,Daniela Galarza,2017-12-08,Upper East Side
+Together,2325 65th St,40.6123,-73.9783,$,4.0,Japanese,Sonia Chopra,2017-12-08,Bensonhurst
+Greek Kitchen,889 10th Ave,40.7697614,-73.9881055,$$,4.0,Greek,Robert Sietsema,2017-12-01,Columbus Circle
+Risbo,701 Flatbush Ave,40.6560593,-73.9597273,$$,4.0,French,Robert Sietsema,2017-12-01,Prospect Lefferts Gardens
+Cowgirl Hall of Fame,519 Hudson St,40.733805,-74.006488,$$,3.5,Southern,,2017-11-10,West Village
+Hana Noodles,445 Albee Square West,40.6910201049104,-73.9833099022508,,3.5,Chinese,Serena Dai,2017-09-29,Downtown
+Ice & Vice,221 East Broadway,40.71427,-73.98696,,4.0,Ice Cream & Frozen Yogurt,Patty Diez,2017-09-08,Lower East Side
+Harper’s Bread House,271 Grand St,40.71771,-73.99303,,4.0,Bakeries,Robert Sietsema,2017-08-11,Lower East Side
+The Crown,50 Bowery,40.715990000000005,-73.99683,$$$,3.5,Chinese,Serena Dai,2017-07-14,Chinatown
+Hudson Café,628 Hudson St,40.738321,-74.005291,$$,3.5,Cafes,Robert Sietsema,2017-07-14,West Village
+Narcissa,25 Cooper Sq,40.72784,-73.99091,$$,3.5,American (New),,2017-03-31,East Village
+Yerba Buena,1 Perry St,40.736012972648,-74.000938784459,$$$,4.0,Latin American,,2017-03-23,Greenwich Village
+Tori Shin,362 West 53rd St,40.764959999999995,-73.98721,$$$$,4.0,Japanese,Ryan Sutton,2017-03-17,Columbus Circle
+Khe-yo,157 Duane St,40.716906,-74.008587,$$,4.0,Laotian,Sonia Chopra,2017-03-17,Tribeca
+Turkiss,104 MacDougal St,40.7294,-74.00088000000001,$,3.5,Turkish,Robert Sietsema,2017-03-10,Greenwich Village
+Atlantic Social,673 Atlantic Ave,40.683167700000006,-73.97342859999999,$$,3.0,Bars,Serena Dai,2017-03-10,Fort Greene
+Miss Lily's,109 Avenue A,40.726019,-73.9837551,$$,4.0,Caribbean,Patty Diez,2017-03-10,East Village
+Ichiran,374 Johnson Ave,40.707587,-73.93327099999999,$$,3.5,Ramen,Serena Dai,2017-03-02,Williamsburg
+Manousheh,193 Bleecker St,40.7293499,-74.00134,$,4.5,Lebanese,Serena Dai,2017-02-24,Greenwich Village
+Wu’s Wonton King,165 East Broadway,40.7139415501646,-73.9899386554248,$$,3.5,Cantonese,Serena Dai,2017-02-24,Lower East Side
+Tekoa,264 Clinton St,40.6878973,-73.99575209999999,$$,4.0,Breakfast & Brunch,Madeline Muzzi,2017-02-24,Cobble Hill
